@@ -13,7 +13,7 @@
 1. **Clone the repository**
 
    ```sh
-   git clone 
+   git clone https://github.com/anuj6789/22052801_WeatherDashboard.git
    cd 22052801_WeatherDashboard
    ```
 
